@@ -1,15 +1,15 @@
 {
-  "main.css": "/React-Project--Learn-Algo/static/css/main.51aa9c38.chunk.css",
-  "main.js": "/React-Project--Learn-Algo/static/js/main.7841162e.chunk.js",
-  "main.js.map": "/React-Project--Learn-Algo/static/js/main.7841162e.chunk.js.map",
-  "static/css/1.ec1b2585.chunk.css": "/React-Project--Learn-Algo/static/css/1.ec1b2585.chunk.css",
-  "static/js/1.98763216.chunk.js": "/React-Project--Learn-Algo/static/js/1.98763216.chunk.js",
-  "static/js/1.98763216.chunk.js.map": "/React-Project--Learn-Algo/static/js/1.98763216.chunk.js.map",
-  "runtime~main.js": "/React-Project--Learn-Algo/static/js/runtime~main.d57a6c83.js",
-  "runtime~main.js.map": "/React-Project--Learn-Algo/static/js/runtime~main.d57a6c83.js.map",
-  "static/css/main.51aa9c38.chunk.css.map": "/React-Project--Learn-Algo/static/css/main.51aa9c38.chunk.css.map",
-  "static/css/1.ec1b2585.chunk.css.map": "/React-Project--Learn-Algo/static/css/1.ec1b2585.chunk.css.map",
-  "index.html": "/React-Project--Learn-Algo/index.html",
-  "precache-manifest.0dcaf27a4f7788d2645c211900116c68.js": "/React-Project--Learn-Algo/precache-manifest.0dcaf27a4f7788d2645c211900116c68.js",
-  "service-worker.js": "/React-Project--Learn-Algo/service-worker.js"
+  "main.css": "./static/css/main.51aa9c38.chunk.css",
+  "main.js": "./static/js/main.7841162e.chunk.js",
+  "main.js.map": "./static/js/main.7841162e.chunk.js.map",
+  "static/css/1.ec1b2585.chunk.css": "./static/css/1.ec1b2585.chunk.css",
+  "static/js/1.98763216.chunk.js": "./static/js/1.98763216.chunk.js",
+  "static/js/1.98763216.chunk.js.map": "./static/js/1.98763216.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.51aa9c38.chunk.css.map": "./static/css/main.51aa9c38.chunk.css.map",
+  "static/css/1.ec1b2585.chunk.css.map": "./static/css/1.ec1b2585.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.7446b068ce204949e489cb84d13bd692.js": "./precache-manifest.7446b068ce204949e489cb84d13bd692.js",
+  "service-worker.js": "./service-worker.js"
 }
